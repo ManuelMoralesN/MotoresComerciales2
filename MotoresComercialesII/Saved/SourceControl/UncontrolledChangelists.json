@@ -6,14 +6,26 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/Blueprints/AIC_Simple.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/Blueprints/BP_SimpleNPC.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/F5/LK5F5J3AMSOGNMJZJY490O.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/NV/ME2CDI2MHZT7D5SLKKK7ZI.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KT/TWWVNKFH3FUQRFDTANV95M.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/BehaviorTree/BT_SimpleNPC.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/Blackboard/BB_SimpleNPC.uasset",
-				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/Tasks/BTTask_MoveToLocation.uasset"
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/Tasks/BTTask_MoveToLocation.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/AIControllers/AIC_Simple.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/Tasks/BTTask_MoveToRandomLocation.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/Materiales/M_SimplePBR.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/Materiales/M_SimplePBR1.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IMG/base_albedo.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IMG/base_AO.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IMG/base_metallic.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IMG/base_normal.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IMG/base_roughness.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/OBJ/drakefire_pistol_low.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IMG/ORM.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/Materiales/MF_CTiling.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComercialesII/Content/IA/Blueprints/AIC_Simple.uasset"
 			]
 		}
 	]
